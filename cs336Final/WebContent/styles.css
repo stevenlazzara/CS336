@@ -1,0 +1,90 @@
+html, body{
+	margin: 0px; 
+	padding: 0px;
+	background: #b4ccd9;
+}
+
+#site_header_container{
+	text-align: center;
+	margin-top: 50px;
+}
+
+#welcome_form_container{
+	text-align: center;
+}
+
+#flight_search_header_container{
+	text-align: center;
+}
+
+#flight_search_dropdown_container{
+	text-align: center;
+}
+
+#flight_search_text_container{
+	text-align: center;
+}
+
+#flights_header{
+	text-align: center;
+}
+
+#flight_sort_container{
+	text-align: center;
+}
+
+#flight_sort_container h5, select{
+	display: inline;
+}
+
+#flights_filter_container{
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+#flights_filter_container h5{
+	margin-bottom: 0px;
+}
+
+input[name="editflights"] {
+  margin-top: 10px;
+}
+
+#flight_reserve_container{
+	margin-top: 20px; 
+	text-align: center;
+}
+
+#my_reservations_header_container{
+	text-align: center;
+	margin-top: 100px;
+}
+
+#my_reservations_form_container{
+	text-align: center;
+}
+
+#back_to_flight_search_container{
+	margin-left: 50px;
+}
+
+#reservation_filter_container{
+	text-align: center;
+}
+
+#reservation_filter_form_container{
+	text-align: center;
+}
+
+#cancel_reservation_container{
+	text-align: center;
+	margin-top: 20px;
+}
+
+#my_waitlist_form_container{
+	text-align: center;
+}
+
+#my_waitlist_header_container{
+	text-align: center;
+}
